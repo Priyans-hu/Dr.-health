@@ -7,3 +7,11 @@ Our mission is typically to provide information and tools to help people assess 
 # Link of brain tumor model:
 <a>https://drive.google.com/file/d/1vmDEENWNesBrffmWpZPzPJH5TBRGwZ25/view?usp=sharing</a> <br>
 {This file is approx 270MB and github upload limit is 25MB, so we placed it on google drive. Download this file and add paste it in models folder}
+
+# Normal ranges for lever
+- Total bilirubin- 0.3 to 1.9
+- Direct bilirubin- 0.1 to 0.3 
+- Alkaline phosphatase- 30 to 130 units per liter (U/L).
+- Total proteins- 6.0 to 8.3 grams per deciliter (g/dL). 
+- Albumin- 3.4- 5.4
+- Albumin globulin ratio- 1.0- 2.5
